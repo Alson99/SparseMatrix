@@ -1,0 +1,32 @@
+D:\solutionsRider\SparseMatrix\SparseMatrix\bin\Debug\net5.0\SparseMatrix.exe
+D:\solutionsRider\SparseMatrix\SparseMatrix\bin\Debug\net5.0\SparseMatrix.deps.json
+D:\solutionsRider\SparseMatrix\SparseMatrix\bin\Debug\net5.0\SparseMatrix.runtimeconfig.json
+D:\solutionsRider\SparseMatrix\SparseMatrix\bin\Debug\net5.0\SparseMatrix.runtimeconfig.dev.json
+D:\solutionsRider\SparseMatrix\SparseMatrix\bin\Debug\net5.0\SparseMatrix.dll
+D:\solutionsRider\SparseMatrix\SparseMatrix\bin\Debug\net5.0\ref\SparseMatrix.dll
+D:\solutionsRider\SparseMatrix\SparseMatrix\bin\Debug\net5.0\SparseMatrix.pdb
+D:\solutionsRider\SparseMatrix\SparseMatrix\obj\Debug\net5.0\SparseMatrix.csproj.AssemblyReference.cache
+D:\solutionsRider\SparseMatrix\SparseMatrix\obj\Debug\net5.0\SparseMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\solutionsRider\SparseMatrix\SparseMatrix\obj\Debug\net5.0\SparseMatrix.AssemblyInfoInputs.cache
+D:\solutionsRider\SparseMatrix\SparseMatrix\obj\Debug\net5.0\SparseMatrix.AssemblyInfo.cs
+D:\solutionsRider\SparseMatrix\SparseMatrix\obj\Debug\net5.0\SparseMatrix.csproj.CoreCompileInputs.cache
+D:\solutionsRider\SparseMatrix\SparseMatrix\obj\Debug\net5.0\SparseMatrix.dll
+D:\solutionsRider\SparseMatrix\SparseMatrix\obj\Debug\net5.0\ref\SparseMatrix.dll
+D:\solutionsRider\SparseMatrix\SparseMatrix\obj\Debug\net5.0\SparseMatrix.pdb
+D:\solutionsRider\SparseMatrix\SparseMatrix\obj\Debug\net5.0\SparseMatrix.genruntimeconfig.cache
+C:\Users\user\Downloads\Telegram Desktop\SparseMatrix\SparseMatrix\SparseMatrix\bin\Debug\net5.0\SparseMatrix.exe
+C:\Users\user\Downloads\Telegram Desktop\SparseMatrix\SparseMatrix\SparseMatrix\bin\Debug\net5.0\SparseMatrix.deps.json
+C:\Users\user\Downloads\Telegram Desktop\SparseMatrix\SparseMatrix\SparseMatrix\bin\Debug\net5.0\SparseMatrix.runtimeconfig.json
+C:\Users\user\Downloads\Telegram Desktop\SparseMatrix\SparseMatrix\SparseMatrix\bin\Debug\net5.0\SparseMatrix.runtimeconfig.dev.json
+C:\Users\user\Downloads\Telegram Desktop\SparseMatrix\SparseMatrix\SparseMatrix\bin\Debug\net5.0\SparseMatrix.dll
+C:\Users\user\Downloads\Telegram Desktop\SparseMatrix\SparseMatrix\SparseMatrix\bin\Debug\net5.0\ref\SparseMatrix.dll
+C:\Users\user\Downloads\Telegram Desktop\SparseMatrix\SparseMatrix\SparseMatrix\bin\Debug\net5.0\SparseMatrix.pdb
+C:\Users\user\Downloads\Telegram Desktop\SparseMatrix\SparseMatrix\SparseMatrix\obj\Debug\net5.0\SparseMatrix.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Telegram Desktop\SparseMatrix\SparseMatrix\SparseMatrix\obj\Debug\net5.0\SparseMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Telegram Desktop\SparseMatrix\SparseMatrix\SparseMatrix\obj\Debug\net5.0\SparseMatrix.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Telegram Desktop\SparseMatrix\SparseMatrix\SparseMatrix\obj\Debug\net5.0\SparseMatrix.AssemblyInfo.cs
+C:\Users\user\Downloads\Telegram Desktop\SparseMatrix\SparseMatrix\SparseMatrix\obj\Debug\net5.0\SparseMatrix.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Telegram Desktop\SparseMatrix\SparseMatrix\SparseMatrix\obj\Debug\net5.0\SparseMatrix.dll
+C:\Users\user\Downloads\Telegram Desktop\SparseMatrix\SparseMatrix\SparseMatrix\obj\Debug\net5.0\ref\SparseMatrix.dll
+C:\Users\user\Downloads\Telegram Desktop\SparseMatrix\SparseMatrix\SparseMatrix\obj\Debug\net5.0\SparseMatrix.pdb
+C:\Users\user\Downloads\Telegram Desktop\SparseMatrix\SparseMatrix\SparseMatrix\obj\Debug\net5.0\SparseMatrix.genruntimeconfig.cache
